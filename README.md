@@ -15,7 +15,7 @@ I started this line of questioning/research for the fact that I was curious of t
 **Answer:** Programming languages played a crucial role in the creation and evolution of Generative AI softwares like Dall-E, laying the foundation for deep learning, efficient computation and large-scale model development. The following points concern how programming languages first impacted the development of such models: 
 1. Python and Ecosystem: the most influential language of Generative AI software. It has ease of use and readability as its strengths, impacting early generative AI models (like GANs [Generative Adversial Networks), which are foundational to image generation tasks performed by softwares such as Dall-E. Deep Learning Libraries played a huge role in the rise of deep learning, cemented by the devlopment of libraries like TensorFlow, Pytorch, etc. (PyTorch is what Dall-E was based on, via OpenAI.)
 2. C++ and Performance Optimization: C++ played a key role in performance optimization, particularly for low-level operations required to scale models for softwares like Dall-E. C++ is used for many deep learning framework backend operations. It allows the use of GPUs to accelerate training for Generative AI models.
-(...)
+...
 5. Evolution of Generative Models: programming languages enabled the creation and refinement of Generative AI architectures that paved the way for models like Dall-E. Some examples are: Generative Adversarial Networks, which are a cornerstone for generative models; Variational Autoencoders, implented using Python's deep learning libraries; and Transformers, introduced in 2017, became a game-changer in the field of AI when adapted for vision tasks in models. 
 
 --
@@ -34,6 +34,8 @@ I started this line of questioning/research for the fact that I was curious of t
 
 # Conclusion 
 Programming langauges have been the base and cornerstone of Generative AI models such as Dall-E. From the creation of such models to future advancements, programming languages such as Python and C++ form the backbone of many such functions. In the future, developers and programmers may want to focus on the weaknesses listed above, as users may run into some of these issues when using such software, and are ultimately issues taht need to addressed to improve such softwares. With improvements in mind, it is hopeful that Generative AI models will be able to be more sophisticated and creative, while aslo being more energy efficient. 
+
+This "conversation" was interesting to me as someone who has heard many opinionated takes on Generative AI. Chat GPT-4o was a good source to use for factual and unbiased answers, specifically pertaining to the last question about the future of Generative AI. 
 
 --
 
