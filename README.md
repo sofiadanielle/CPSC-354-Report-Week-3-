@@ -1,7 +1,7 @@
 # CPSC-354-Report-Week-3-
 Public repository for homework assignment 3: Using LLMs for Literature Review
 
-#**A Look Into the Relationship of Generative AI and Programming Langauages**
+**A Look Into the Relationship of Generative AI and Programming Langauages**
 - By Sofia Bejerano
 
 - LLM used: GPT-4o
@@ -31,12 +31,13 @@ I started this line of questioning/research for the fact that I was curious of t
 **Answer:** New and ongoing developments in programming languages are significnatly enhancing the capabilites of Generative AI systems in several key ways. These advancements aim to improve performance, scalability, ease of use, and flexibility in AI development. The nine key ways listed are: improved performance and efficiency, specialized frameworks and libraries, scalability and distributed training, easier model deployment, multi-langauge interoperability, functional and declarative paradigms, AI-specific langauges, enhanced debugging and interpretability, and quantum computing integration. These advancements are making Generative AI systems faster, more efficien and easier to devlop. They are more widely accessible across different platforms and devices, as well. 
 
 -- 
-#Conclusion 
+
+# Conclusion 
 Programming langauges have been the base and cornerstone of Generative AI models such as Dall-E. From the creation of such models to future advancements, programming languages such as Python and C++ form the backbone of many such functions. In the future, developers and programmers may want to focus on the weaknesses listed above, as users may run into some of these issues when using such software, and are ultimately issues taht need to addressed to improve such softwares. With improvements in mind, it is hopeful that Generative AI models will be able to be more sophisticated and creative, while aslo being more energy efficient. 
 
 --
 
-#Some References, as Given by Chat GPT-4o: 
+# Some References, as Given by Chat GPT-4o: 
 "Artificial Intelligence: A Guide for Thinking Humans" by Melanie Mitchell
 "Python Machine Learning" by Sebastian Raschka and Vahid Mirjalili
 "Green AI: Reducing the Carbon Footprint of Machine Learning" by Arbab Khan
